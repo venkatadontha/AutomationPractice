@@ -2,70 +2,70 @@
 <testng-results skipped="0" failed="0" ignored="8" total="14" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="235720" started-at="2020-05-23T18:33:29 BST" finished-at="2020-05-23T18:37:25 BST">
+  <suite name="Suite" duration-ms="245955" started-at="2020-05-23T20:28:06 BST" finished-at="2020-05-23T20:32:12 BST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="235720" started-at="2020-05-23T18:33:29 BST" finished-at="2020-05-23T18:37:25 BST">
+    <test name="Test" duration-ms="245955" started-at="2020-05-23T20:28:06 BST" finished-at="2020-05-23T20:32:12 BST">
       <class name="com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByCheck">
-        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByCheck@78e67e0a]" name="Initialise" is-config="true" duration-ms="9465" started-at="2020-05-23T18:34:24 BST" finished-at="2020-05-23T18:34:33 BST">
+        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByCheck@78e67e0a]" name="Initialise" is-config="true" duration-ms="9453" started-at="2020-05-23T20:29:03 BST" finished-at="2020-05-23T20:29:12 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialise -->
-        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByCheck@78e67e0a]" name="Nav2ContactUsPage" duration-ms="44538" started-at="2020-05-23T18:34:33 BST" finished-at="2020-05-23T18:35:18 BST">
+        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByCheck@78e67e0a]" name="Nav2ContactUsPage" duration-ms="53035" started-at="2020-05-23T20:29:12 BST" finished-at="2020-05-23T20:30:05 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Nav2ContactUsPage -->
       </class> <!-- com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByCheck -->
       <class name="com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank">
-        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="setExtent" is-config="true" duration-ms="133" started-at="2020-05-23T18:33:29 BST" finished-at="2020-05-23T18:33:29 BST">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="setExtent" is-config="true" duration-ms="125" started-at="2020-05-23T20:28:06 BST" finished-at="2020-05-23T20:28:06 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setExtent -->
-        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="Initialise" is-config="true" duration-ms="10611" started-at="2020-05-23T18:33:29 BST" finished-at="2020-05-23T18:33:40 BST">
+        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="Initialise" is-config="true" duration-ms="10604" started-at="2020-05-23T20:28:06 BST" finished-at="2020-05-23T20:28:17 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialise -->
-        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="Nav2ContactUsPage" duration-ms="43922" started-at="2020-05-23T18:33:40 BST" finished-at="2020-05-23T18:34:24 BST">
+        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="Nav2ContactUsPage" duration-ms="46208" started-at="2020-05-23T20:28:17 BST" finished-at="2020-05-23T20:29:03 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Nav2ContactUsPage -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="endReport" is-config="true" duration-ms="2" started-at="2020-05-23T18:37:25 BST" finished-at="2020-05-23T18:37:25 BST">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank@3043fe0e]" name="endReport" is-config="true" duration-ms="3" started-at="2020-05-23T20:32:12 BST" finished-at="2020-05-23T20:32:12 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
       </class> <!-- com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_GuestCustomer_PayByBank -->
       <class name="MyAccount.TC00_GenerateCustomerDatInExcel">
-        <test-method status="PASS" signature="CustomerDataGenerationInExcel()[pri:0, instance:MyAccount.TC00_GenerateCustomerDatInExcel@bd8db5a]" name="CustomerDataGenerationInExcel" duration-ms="734" started-at="2020-05-23T18:35:18 BST" finished-at="2020-05-23T18:35:18 BST">
+        <test-method status="PASS" signature="CustomerDataGenerationInExcel()[pri:0, instance:MyAccount.TC00_GenerateCustomerDatInExcel@bd8db5a]" name="CustomerDataGenerationInExcel" duration-ms="716" started-at="2020-05-23T20:30:05 BST" finished-at="2020-05-23T20:30:06 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CustomerDataGenerationInExcel -->
       </class> <!-- MyAccount.TC00_GenerateCustomerDatInExcel -->
       <class name="com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank">
-        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank@4b553d26]" name="Initialise" is-config="true" duration-ms="9373" started-at="2020-05-23T18:36:40 BST" finished-at="2020-05-23T18:36:50 BST">
+        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank@4b553d26]" name="Initialise" is-config="true" duration-ms="9379" started-at="2020-05-23T20:31:29 BST" finished-at="2020-05-23T20:31:39 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialise -->
-        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank@4b553d26]" name="Nav2ContactUsPage" duration-ms="35184" started-at="2020-05-23T18:36:50 BST" finished-at="2020-05-23T18:37:25 BST">
+        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank@4b553d26]" name="Nav2ContactUsPage" duration-ms="33393" started-at="2020-05-23T20:31:39 BST" finished-at="2020-05-23T20:32:12 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Nav2ContactUsPage -->
       </class> <!-- com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank -->
       <class name="com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck">
-        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck@80503]" name="Initialise" is-config="true" duration-ms="9424" started-at="2020-05-23T18:35:59 BST" finished-at="2020-05-23T18:36:08 BST">
+        <test-method status="PASS" signature="Initialise()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck@80503]" name="Initialise" is-config="true" duration-ms="9433" started-at="2020-05-23T20:30:47 BST" finished-at="2020-05-23T20:30:56 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialise -->
-        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck@80503]" name="Nav2ContactUsPage" duration-ms="32128" started-at="2020-05-23T18:36:08 BST" finished-at="2020-05-23T18:36:40 BST">
+        <test-method status="PASS" signature="Nav2ContactUsPage()[pri:0, instance:com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck@80503]" name="Nav2ContactUsPage" duration-ms="33287" started-at="2020-05-23T20:30:56 BST" finished-at="2020-05-23T20:31:29 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Nav2ContactUsPage -->
       </class> <!-- com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck -->
       <class name="MyAccount.TC02_CustomerRegistration">
-        <test-method status="PASS" signature="Initialise()[pri:0, instance:MyAccount.TC02_CustomerRegistration@2f943d71]" name="Initialise" is-config="true" duration-ms="9387" started-at="2020-05-23T18:35:18 BST" finished-at="2020-05-23T18:35:28 BST">
+        <test-method status="PASS" signature="Initialise()[pri:0, instance:MyAccount.TC02_CustomerRegistration@2f943d71]" name="Initialise" is-config="true" duration-ms="9399" started-at="2020-05-23T20:30:06 BST" finished-at="2020-05-23T20:30:16 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialise -->
-        <test-method status="PASS" signature="CustomerRegistration()[pri:0, instance:MyAccount.TC02_CustomerRegistration@2f943d71]" name="CustomerRegistration" duration-ms="30898" started-at="2020-05-23T18:35:28 BST" finished-at="2020-05-23T18:35:59 BST">
+        <test-method status="PASS" signature="CustomerRegistration()[pri:0, instance:MyAccount.TC02_CustomerRegistration@2f943d71]" name="CustomerRegistration" duration-ms="31000" started-at="2020-05-23T20:30:16 BST" finished-at="2020-05-23T20:30:47 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CustomerRegistration -->
