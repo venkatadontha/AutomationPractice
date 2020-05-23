@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    	<class name="com.org.automationpractice.myECommerceProject.TC01_GenerateCustomerDatInExcel"/>
+    	<class name="com.org.automationpractice.myECommerceProject.TC07_CustomerRegistration"/>
+        <class name="com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByCheck"/>
+        <class name="com.org.automationpractice.myECommerceProject.CheckoutScenario_End2End_RegisteredCustomer_PayByBank"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

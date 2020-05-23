@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParallelSuite" parallel="classes" thread-count="1" >
+  <test name="ParallelTests" >
+    <classes>
+      <class name="com.org.automationpractice.myECommerceProject.TC12_SingIn_MyWishListFunctionality_NoRecords"/>
+      <class name="com.org.automationpractice.myECommerceProject.TC10_SignIn_MyAddressesFunctionality_DefaultRecord"/>
+      <class name="com.org.automationpractice.myECommerceProject.TC09_SignIn_MyCreditSlipsFunctionality_NoRecords"/>
+      <class name="com.org.automationpractice.myECommerceProject.TC08_SingIn_CheckOrderHistoryFunctionality_NoRecords"/>
+      <class name="com.org.automationpractice.myECommerceProject.TC11_SingIn_ViewPersonalInfoFunctionality_DefaultRecordInfo"/>
+    </classes>
+  </test> <!-- ParallelTests -->
+</suite> <!-- ParallelSuite -->
